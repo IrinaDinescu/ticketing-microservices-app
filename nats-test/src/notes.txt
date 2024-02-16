@@ -1,0 +1,14 @@
+
+                                Common Module
+
+Tikets Service     ---->       Listing of Events Names 
+                                    (Subjects)
+
+Orders Service     ---->        Exact definition of
+                                TicketCreated Event
+
+Payments Service   ---->        Exact definition of
+                                TicketUpdated Event
+
+Expiration Service ---->        Exact definition of 
+                                OrderUpdated Event
